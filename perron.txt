@@ -1,2 +1,7 @@
 pongamos alguna verga pa hacer un commit
 estoy editando esto aca, par aluego llevarlo a mi remoto hpta
+
+
+
+esto es trabajo nuevo que estoy haciendo en laramita1  par aleugo fusionarlo con 
+mi trabajo principal en main
