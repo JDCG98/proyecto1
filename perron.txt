@@ -5,3 +5,6 @@ estoy editando esto aca, par aluego llevarlo a mi remoto hpta
 
 esto es trabajo nuevo que estoy haciendo en laramita1  par aleugo fusionarlo con 
 mi trabajo principal en main
+
+
+el perro es chihuahua, y se le hara un pull request para que sea revisado este perro
